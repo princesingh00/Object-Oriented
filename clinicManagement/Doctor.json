@@ -1,0 +1,26 @@
+[ {
+  "name" : "REDDY",
+  "id" : 1,
+  "specialization" : "DERMATOLOGIST",
+  "avl" : "7AM"
+}, {
+  "name" : "BATRA",
+  "id" : 3452,
+  "specialization" : "HAIR",
+  "avl" : "10AM"
+}, {
+  "name" : "NENE",
+  "id" : 3088,
+  "specialization" : "NUEROLOGIST",
+  "avl" : "6pm"
+}, {
+  "name" : "CHITRA",
+  "id" : 267,
+  "specialization" : "CARDIO",
+  "avl" : "5AM"
+}, {
+  "name" : "ALEX",
+  "id" : 4085,
+  "specialization" : "SKIN",
+  "avl" : "5AM"
+} ]

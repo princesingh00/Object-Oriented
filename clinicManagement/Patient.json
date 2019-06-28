@@ -1,0 +1,16 @@
+[ {
+  "name" : "PRINCE",
+  "id"   : 1,
+  "mobNumber" : "9766563867",
+  "age"  : 23
+}, {
+  "name" : "ARUN",
+  "id"   : 2,
+  "mobNumber" : "3434567890",
+  "age"  : 31
+}, {
+  "name" : "RIYA",
+  "id"   : 3,
+  "mobNumber" : "9848888886",
+  "age"  : 12
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "doctorName" : "VENKATESH",
+  "patientName" : "MARUTHi",
+  "date" : "01/04/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "SANDESH",
+  "patientName" : "ROHAN",
+  "date" : "28/6/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "REDDY",
+  "patientName" : "PRINCE",
+  "date" : "23/06/2019",
+  "docAppointmentCount" : 1
+}, {
+  "doctorName" : "ALEX",
+  "patientName" : "PRINCE",
+  "date" : "29/06/2019",
+  "docAppointmentCount" : 1
+} ]
